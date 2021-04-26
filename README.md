@@ -2,7 +2,7 @@
 
 ### Description
 
-Application provides an command line interface to keep a record of packages processed.
+Application provides a command line interface to keep a record of packages processed.
 
 ### Requirements
 
